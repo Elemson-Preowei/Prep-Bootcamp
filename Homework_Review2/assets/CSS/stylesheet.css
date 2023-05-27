@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+/*div {
+    border: 2px solid black;
+    height: 50px;
+    background-color: magenta;
+  }*/
+
+div {
+  border: 2px solid black;
+  height: 120px;
+  display: flex;
+}
+#red {
+  border: 5px solid red;
+  height: 100%;
+  width: 40%;
+}
+#green {
+  border: 5px solid green;
+  height: 100%;
+  width: 30%;
+}
+#blue {
+  border: 5px solid blue;
+  height: 100%;
+  width: 30%;
+}
